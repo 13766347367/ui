@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UIdemo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="textname">地磅边缘终端</string>
+    <string name="v1_01">V1.01</string>
+    <string name="id">设备ID：</string>
+    <string name="adress">主机地址：</string>
+    <string name="com485">COM485：</string>
+    <string name="_485">485</string>
+    <string name="dev_ttyswk0">/dev/ttysWK0</string>
+    <string name="_9600">9600</string>
+    <string name="com232">COM232：</string>
+    <string name="_232">232</string>
+    <string name="_1">-</string>
+    <string name="uart2">Uart2：</string>
+    <string name="Uart">Uart2</string>
+    <string name="dev_ttyswk2">/dev/ttysWK2</string>
+    <string name="set">参数设置</string>
+    <string name="host">Host</string>
+    <string name="hostrq">Host回复:</string>
+    <string name="e5q008_560_5kg">苏E5Q008;560.5kg;</string>
+    <string name="data">地磅数据:</string>
+    <string name="_560_5kg">560.5kg</string>
+    <string name="plate">车牌数据：</string>
+    <string name="platedata">苏E5Q008</string>
+    <string name="time">时间：</string>
+    <string name="timedata">2020-12-25 08:08:08</string>
+    <string name="dev_ttyswk1">/dev/ttysWK1</string>
+</resources>

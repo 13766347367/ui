@@ -1,0 +1,36 @@
+com/hoho/android/usbserial/util/SerialInputOutputManager.java
+ com.hoho.android.usbserial.util.SerialInputOutputManager
+ com.hoho.android.usbserial.util.SerialInputOutputManager$Listener
+ com.hoho.android.usbserial.util.SerialInputOutputManager$State
+com/hoho/android/usbserial/driver/Ch34xSerialDriver.java
+ com.hoho.android.usbserial.driver.Ch34xSerialDriver
+ com.hoho.android.usbserial.driver.Ch34xSerialDriver$Ch340SerialPort
+com/hoho/android/usbserial/driver/UsbSerialPort.java
+ com.hoho.android.usbserial.driver.UsbSerialPort
+ com.hoho.android.usbserial.driver.UsbSerialPort$ControlLine
+ com.hoho.android.usbserial.driver.UsbSerialPort$Parity
+com/hoho/android/usbserial/driver/ProbeTable.java
+ com.hoho.android.usbserial.driver.ProbeTable
+com/hoho/android/usbserial/driver/FtdiSerialDriver.java
+ com.hoho.android.usbserial.driver.FtdiSerialDriver
+ com.hoho.android.usbserial.driver.FtdiSerialDriver$FtdiSerialPort
+com/hoho/android/usbserial/driver/CommonUsbSerialPort.java
+ com.hoho.android.usbserial.driver.CommonUsbSerialPort
+com/hoho/android/usbserial/driver/ProlificSerialDriver.java
+ com.hoho.android.usbserial.driver.ProlificSerialDriver
+ com.hoho.android.usbserial.driver.ProlificSerialDriver$DeviceType
+ com.hoho.android.usbserial.driver.ProlificSerialDriver$ProlificSerialPort
+com/hoho/android/usbserial/BuildConfig.java
+ com.hoho.android.usbserial.BuildConfig
+com/hoho/android/usbserial/driver/Cp21xxSerialDriver.java
+ com.hoho.android.usbserial.driver.Cp21xxSerialDriver
+ com.hoho.android.usbserial.driver.Cp21xxSerialDriver$Cp21xxSerialPort
+com/hoho/android/usbserial/driver/UsbSerialDriver.java
+ com.hoho.android.usbserial.driver.UsbSerialDriver
+com/hoho/android/usbserial/driver/CdcAcmSerialDriver.java
+ com.hoho.android.usbserial.driver.CdcAcmSerialDriver
+ com.hoho.android.usbserial.driver.CdcAcmSerialDriver$CdcAcmSerialPort
+com/hoho/android/usbserial/driver/UsbSerialProber.java
+ com.hoho.android.usbserial.driver.UsbSerialProber
+com/hoho/android/usbserial/driver/UsbId.java
+ com.hoho.android.usbserial.driver.UsbId

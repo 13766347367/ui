@@ -1,0 +1,3 @@
+include ':usbSerialForAndroid'
+include ':app'
+rootProject.name = "ui"
